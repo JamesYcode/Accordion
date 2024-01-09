@@ -39,7 +39,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://github.com/JamesYcode/Practice-React/tree/master/React-Accordion)
-- Live Site URL: [Add live site URL here]([https://your-live-site-url.com](https://accordion-tawny.vercel.app/))
+- Live Site URL: [Add live site URL here](https://accordion-tawny.vercel.app/)
 
 ## My process
 
