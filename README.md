@@ -20,8 +20,9 @@ Users should be able to:
 
 ### Screenshot
 
-![Desktop](https://github.com/JamesYcode/Practice-React/assets/45125902/ce84673a-8508-4671-ad2d-0448fb35b7a6)
-![Mobile](https://github.com/JamesYcode/Practice-React/assets/45125902/3070c52f-c009-4db5-840b-af66a655a80f)
+![Desktop](https://github.com/JamesYcode/Accordion/assets/45125902/917adefb-6adf-47c1-ad76-26545123af84)
+
+![Mobile](https://github.com/JamesYcode/Accordion/assets/45125902/e1f381fd-a61a-477b-b3ee-5501d5912dad)
 
 
 
