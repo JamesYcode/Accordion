@@ -34,8 +34,6 @@ Users should be able to:
 - Solution URL: [Solution Here](https://github.com/JamesYcode/Accordion)
 - Live Site URL: [Demo Here](https://accordion-tawny.vercel.app/)
 
-## My process
-
 ### Built with
 
 - Semantic HTML5 markup
