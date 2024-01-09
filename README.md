@@ -38,7 +38,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution Here](https://github.com/JamesYcode/Practice-React/tree/master/React-Accordion)
+- Solution URL: [Solution Here](https://github.com/JamesYcode/Accordion)
 - Live Site URL: [Demo Here](https://accordion-tawny.vercel.app/)
 
 ## My process
